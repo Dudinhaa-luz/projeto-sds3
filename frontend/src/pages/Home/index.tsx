@@ -1,4 +1,4 @@
-function Dashboard() {
+function Home() {
     return (
         <div>
             <h1>Página Home</h1>
@@ -6,4 +6,4 @@ function Dashboard() {
     );
 }
 
-export default Dashboard;
+export default Home;

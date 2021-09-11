@@ -4,7 +4,7 @@ import DonutChart from "components/DonutChart";
 import Footer from "components/Footer";
 import NavBar from "components/NavBar";
 
-function Home() {
+function Dashboard() {
     return (
         <>
             <NavBar />
@@ -32,4 +32,4 @@ function Home() {
     );
 }
 
-export default Home;
+export default Dashboard;
